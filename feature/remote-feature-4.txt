@@ -1,1 +1,2 @@
-Created remote-feature-4.txt in the remote server under feature-1 branch 
+Created remote-feature-4.txt in the remote server under feature-1 branch
+The changes are modified locally in remote-feature-4 
