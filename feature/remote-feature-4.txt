@@ -2,3 +2,4 @@ Created remote-feature-4.txt in the remote server under feature-1 branch
 The changes are modified locally in remote-feature-4 
 Created remote-feature-4.txt in the remote server under feature-1 branch 
 Here i am editing the remote feature-4 in the feature branch 
+I am adding again in locally
