@@ -1,1 +1,2 @@
 Lorem ipsium in remote-feature-3.txt. The changes are made in remote feature  branch 
+Hey these changes are in locally for the feature branch
