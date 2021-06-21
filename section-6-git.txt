@@ -1,0 +1,500 @@
+  196  git cat-file -p 4ba00
+  197  git cat-file -p 1b089
+  198  cd ..
+  199  mkdir git-learn
+  200  ls
+  201  ls -la
+  202  cd git-learn/
+  203  git clone https://github.com/Rig-ved/git-learn.git
+  204  ls
+  205  cd git-learn/
+  206  ls -la
+  207  gbr
+  208  git remote branch -a
+  209  gst 
+  210  glo
+  211  git cat-file -p 6362
+  212  clear
+  213  cls
+  214  glo
+  215  gbr
+  216  git log 
+  217  glo 
+  218  glob
+  219  clea
+  220  clear
+  221  git remote
+  222  gbr
+  223  glo
+  224  history
+  225  glo
+  226  git branch -a
+  227  gbr -a
+  228  git version
+  229  git init
+  230  gst
+  231  ls -al
+  232  ls -a
+  233  cd..
+  234  cd ..
+  235  git clone git clone https://rig-ved@bitbucket.org/rig-ved/git-struct.git
+  236  git clone https://rig-ved@bitbucket.org/rig-ved/git-struct.git
+  237  cd..
+  238  cd ..
+  239  cd git-learn/
+  240  cd git-struct/
+  241  git clone https://rig-ved@bitbucket.org/rig-ved/git-struct.git
+  242  gst
+  243  gst
+  244  cd git-struct/
+  245  gst
+  246  git add abc.txt 
+  247  gst
+  248  gcm "Added abc.txt"
+  249  gst
+  250  git push origin main
+  251  git push origin main
+  252  git push origin main
+  253  git push origin main
+  254  git push origin main
+  255  gst
+  256  gst 
+  257  gst
+  258  git fetch
+  259  gst
+  260  git pull
+  261  gst
+  262  gst
+  263  glo
+  264  gst
+  265  gst
+  266  gst
+  267  gst
+  268  gst
+  269  git fetch 
+  270  gst
+  271  git add abc.txt
+  272  git commit "My New changes in the local"
+  273  git commit -m "My New changes in the local"
+  274  gst
+  275  git pull --rebase
+  276  glo
+  277  gst
+  278  git push origin main
+  279  vim abc.txt
+  280  gst 
+  281  gbr
+  282  glo
+  283  gst
+  284  gst
+  285  glo 
+  286  ls
+  287  clear
+  288  ls
+  289  ls
+  290  cat abc.txt
+  291  git log
+  292  cls
+  293  clear
+  294  ls
+  295  rm abc.txt 
+  296  lks
+  297  ls
+  298  rm myServerFile.txt 
+  299  ls 
+  300  cat README.md 
+  301  ls
+  302  .
+  303  cd .
+  304  cd .
+  305  pwd
+  306  history
+  307  ls -l
+  308  ls -lx
+  309  ls -la
+  310  git hash-object
+  311  gst
+  312  git add .
+  313  gst
+  314  git commit -m "DELTE: FILES"
+  315  gst
+  316  git push 
+  317  open
+  318  open . 
+  319  explorer 
+  320  explorer .
+  321  pwd
+  322  ls
+  323  gst
+  324  clear
+  325  touch abc.txt >  Hey I am created from terminal
+  326  gst
+  327  explorer .
+  328  gst
+  329  echo hello
+  330  echo This is me echo again 
+  331  man touch
+  332  help touch
+  333  info touch
+  334  man -k touch
+  335  cat abc.txt >  This is again
+  336  ls
+  337  cat abc.txt
+  338  nano abc.txt 
+  339  cat  abc.txt
+  340  ls -la
+  341  "Another line in the file" >> abc.txt
+  342  echo "Another line in the file" >> abc.txt
+  343  cat abc.txt 
+  344  gst
+  345  explorer .
+  346  git add .
+  347  gst
+  348  git commit -m "Reset Files"
+  349  git push 
+  350  gst
+  351  ls -la
+  352  cat abc.tx
+  353  cat abc.txt
+  354  echo "Hello I am yet another line" >> abc.txt
+  355  cat abc.txt
+  356  echo "Hello I am yet another line" > abc.txt
+  357  cat abc.txt
+  358  gst
+  359  gst
+  360  echo "hey I modififed the file" >  abc.txt
+  361  cat abc.txt
+  362  ls -la
+  363  rm .gitignore 
+  364  ls -la
+  365  gst
+  366  gad . 
+  367  gcm "Deleted : Git Ignore"
+  368  git push 
+  369  ls -la
+  370  cat abc.txt
+  371  git branch -a
+  372  gst
+  373  cd .git
+  374  ls -la
+  375  cat config 
+  376  cat description 
+  377  cat HEAD 
+  378  gst
+  379  cd ..
+  380  glo
+  381  gst
+  382  gst
+  383  git init
+  384  gst 
+  385  ls -la
+  386  cd .git
+  387  cat config 
+  388  cat description 
+  389  ls -la
+  390  echo "Hello, Git" | git hash-object --stdin
+  391  echo "Hello, Git" | git hash-object --stdin -w
+  392  gst
+  393  git cat-file -p b7ae
+  394  git cat-file -s b7ae
+  395  git cat-file -t b7ae
+  396  git history
+  397  history
+  398  git cat-file -s b7ae12
+  399  clear
+  400  touch abc.txt
+  401  ls -la
+  402  rm abc.txt 
+  403  ls -la
+  404  cd ..
+  405  touch new-file.txt
+  406  echo "Hey i am second file" > new-file.txt 
+  407  ls -la
+  408  gst
+  409  git hash-object
+  410  ls -la
+  411  cd .git
+  412  dir
+  413  git hash-object ../new-file.txt -w
+  414  ls -la
+  415  git cat-file -t 2b6d
+  416  git cat-file -p 2b6d
+  417  git cat-file -s b7ae12
+  418  git cat-file -s b7ae
+  419  git cat-file -p b7ae
+  420  cd ..
+  421  rm new-file.txt 
+  422  ls -la
+  423  git cat-file -p b7
+  424  echo "blob 11\0Hello, Git" | shasum
+  425  echo "blob 11\0Hello, Git" | shasum
+  426  history
+  427  echo "hello, Git" | git hash-object --stdin
+  428  echo "Hello, Git" | git hash-object --stdin
+  429  echo "blob 11\0Hello, Git" | shasum
+  430  git cat-file -p 5fa6
+  431  git cat-file -p b7ae
+  432  git log 
+  433  echo "blob 11\0Hello, Git"
+  434  echo "blob 11\OHello, Git"
+  435  echo "blob 11^Hello, Git"
+  436  echo -e "blob 11\0Hello, Git" | shasum
+  437  git log
+  438  git cat-file -p b7ae
+  439  git cat-file -p 2b6d
+  440  clear
+  441  find .git/objects
+  442  find .git/objects -type f
+  443  git mktree --help
+  444  cd .git
+  445  cat ../temp-tree.txt 
+  446  cat ../temp-tree.txt | git mktree
+  447  git cat-file -p 414a
+  448  cat ../temp-tree.txt | git mktree
+  449  git cat-file -p 414a
+  450  cat ../temp-tree.txt | git mktree
+  451  git cat-file -p 414a
+  452  cat ../temp-tree.txt | git mktree
+  453  git cat-file -p 414a
+  454  cat ../temp-tree.txt | git mktree
+  455  git cat-file -p 414a
+  456  cd ..
+  457  nano temp-tree.txt 
+  458  nano temp-tree.txt 
+  459  nano temp-tree.txt 
+  460  git log
+  461  find .git/objects -type f
+  462  git log
+  463  git log --oneline
+  464  git cat-file -p 3da6
+  465  git cat-file -p 2b3c
+  466  git cat-file -p 9f17
+  467  git cat-file -p c977
+  468  git cat-file -t 3da6
+  469  git cat-file -t 2b3c
+  470  git cat-file -t b7ae
+  471  gst
+  472  nano file1.txt 
+  473  gst
+  474  gst
+  475  git add .
+  476  gcm "local:Modified file (file1.txt)"
+  477  gst
+  478  git ls-files -s
+  479  glo
+  480  git cat-file -p 72bf
+  481  git cat-file -p fe92
+  482  git cat-file -p 805c
+  483  glo
+  484  git status
+  485  git status
+  486  gst
+  487  git add . 
+  488  gst
+  489  git cat-file -p 3da6
+  490  git cat-file -p 2b3c
+  491  cleAR
+  492  ls -la
+  493  git ls-files -la
+  494  git ls-files -a
+  495  git ls-files -c
+  496  git ls -files -s
+  497  git ls-files -s
+  498  git lfs
+  499  clear
+  500  git status
+  501  git clone https://github.com/Rig-ved/bogdan-learn.git
+  502  gst
+  503  ls
+  504  cd bogdan-learn/
+  505  gst]
+  506  gst
+  507  git remote
+  508  git remote -v
+  509  git remote -r
+  510  git branch -r
+  511  git branch 
+  512  git branch -a
+  513  gco feature-1
+  514  git branch -vv
+  515  gbr
+  516  gbr -d feature-1
+  517  gco main
+  518  gbr -d feature-1
+  519  gbr
+  520  gco feature-1
+  521  git remote show origin 
+  522  git remote -vv
+  523  gbr
+  524  git branch -r
+  525  git fetch
+  526  gbr 
+  527  gbr  -r
+  528  gco temp
+  529  gbr -r
+  530  gbr
+  531  gbr -vv
+  532  git remote show origin 
+  533  gbr
+  534  gco mai
+  535  gco main
+  536  git remote show origin
+  537   git remote prune 
+  538   git remote prune origin
+  539  git remote show origin
+  540  git branch --v
+  541  gbr -d temp
+  542  git remote show origin
+  543  git remote show origin 
+  544  git ls-files -s
+  545  ls -la
+  546  gst
+  547  git branch -a
+  548  git branch -vv
+  549  glo
+  550  gco feature-1
+  551  glo
+  552  gst
+  553  ls -la
+  554  git pull 
+  555  clr
+  556  git remote show origin
+  557  git fetch -v
+  558  git checkout master
+  559  git checkout main
+  560  git fetch -v
+  561  git pull -v
+  562  glo
+  563  cat .git/FETCH_HEAD 
+  564  git cat-file -p a568
+  565  git fetch -v
+  566  gst
+  567  glo
+  568  gco feature-1
+  569  glo
+  570  git merge FETCH_HEAD 
+  571  git fetch
+  572  git merge FETCH_HEAD 
+  573  gst
+  574  glo
+  575  gst
+  576  git pull -v
+  577  glo
+  578  ls -la
+  579  ls -la feature/
+  580  git ls-files -s
+  581  glo
+  582  explorer .
+  583  gst
+  584  git log
+  585  glo
+  586  gst
+  587  clr
+  588  git fetch -v
+  589  glo
+  590  git ls-files -s
+  591  git cat-file -p 8983
+  592  git cat-file -p 3849
+  593  gst
+  594  cat .git/FETCH_HEAD 
+  595  glo
+  596  git merge FETCH_HEAD 
+  597  glo
+  598  gst
+  599  git pull
+  600  git cat-file -p 9472
+  601  glo
+  602  gst
+  603  gst
+  604  git pull -v
+  605  gst
+  606  git commit
+  607  gst
+  608  git add .
+  609  gst
+  610  git commit
+  611  gitlog
+  612  glo
+  613  gst
+  614  git status
+  615  git log
+  616  git push -v
+  617  glo
+  618  gst
+  619  gacm 
+  620  gacm "Local:Feature-1:Changes in the local feature-1 branch"
+  621  gst
+  622  git push  
+  623  glo
+  624  clr
+  625  git pull -v
+  626  git push -v
+  627  cat .git/refs/remotes/origin/feature-1
+  628  cat .git/refs/heads/
+  629  cat .git/refs/heads/feature-1 
+  630  cat .git/refs/heads/main 
+  631  git show-ref
+  632  gco -b feature-2
+  633  ls -la
+  634  gst
+  635  git add .
+  636  gst
+  637  gcm "Local:Feature-2:Created files in feature-2 branch"
+  638  gst
+  639  gbr
+  640  clr
+  641  git push
+  642  glo
+  643  cat .git/refs/heads/feature-2
+  644  cat .git/refs/heads/feature-1
+  645  git push -v -u origin feature-2
+  646  git remote show origin
+  647  glo
+  648  gbr -a
+  649  gbr -a
+  650  git fetch -v
+  651  glo
+  652  git merge FETCH_HEAD 
+  653  git checkout temp
+  654  gst
+  655  glo
+  656  git branch -a
+  657  git remote show origin
+  658  git fetch -v
+  659  git branch -vv
+  660  git remote update origin --prune
+  661  git branch -vv
+  662  gco feature-1
+  663  gco feature-2
+  664  gbr -d temp
+  665  git remote show origin
+  666  gco temp
+  667  git checkout -b temp
+  668  ls -la
+  669  glo
+  670  gst
+  671  gad .
+  672  gcm "Local:Temp:Modified remote-feature-4.txt"
+  673  gst
+  674  git push
+  675  git push -v -u origin temp
+  676  gst
+  677  glo
+  678  cat .git/refs/heads/temp
+  679  cat .git/refs/remotes/origin/temp 
+  680  git push -v
+  681  gst
+  682  git branch -vv
+  683  clear
+  684  git push origin -d temp
+  685  git remote show origin
+  686  git branch -vv
+  687  gco feature-2
+  688  gbr -d temp
+  689  gbr -D temp
+  690  gst
+  691  git branch -a
+  692  git show-ref
+  693  git show-ref feature-1
+  694  git show-ref feature-2
+  695  history > section-6-git.txt
