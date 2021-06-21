@@ -1,0 +1,3 @@
+Hey I am new file in the feature-1 branch
+Hye I am the latest commit changes for the squashed commit
+
